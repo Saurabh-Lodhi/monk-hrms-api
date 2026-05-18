@@ -17,7 +17,8 @@ const isAndroidEmulator = true;
 // export const BASE_URL = isAndroidEmulator
 //   ? 'http://10.0.2.2:54844'
 //   : 'http://localhost:54844';
-export const BASE_URL = 'http://localhost:54844';
+// export const BASE_URL = 'http://localhost:54844';
+export const BASE_URL = 'https://monkhrms-api.onrender.com';
 
 const TOKEN_KEY = 'monk_hrms_token';
 
